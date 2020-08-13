@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
- <a href="#sobre">Sobre</a> •
+ <a href="##sobre_o_projeto">Sobre</a> •
  <a href="#funcionalidades">Funcionalidades</a> • 
  <a href="#comoexecutar">Como executar</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
