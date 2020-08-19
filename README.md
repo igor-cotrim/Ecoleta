@@ -63,10 +63,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```sh
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone git@github.com:igor-cotrim/NLW-01
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd README-ecoleta
+$ cd NLW-01
 
 # Vá para a pasta server
 $ cd server
@@ -84,10 +84,10 @@ $ npm run dev:server
 
 ```sh
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone git@github.com:igor-cotrim/NLW-01
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd README-ecoleta
+$ cd NLW-01
 
 # Vá para a pasta da aplicação Front End
 $ cd web
