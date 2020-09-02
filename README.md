@@ -56,7 +56,7 @@ This project is divided into three parts:
 
 💡 Both Frontend and Mobile need the Backend to be running to work.
 
-### Prerequisites
+### Pre requisites
 
 Before you begin, you will need to have the following tools installed on your machine: Git, Node.js. In addition, it is good to have an editor to work with code like VSCode
 
