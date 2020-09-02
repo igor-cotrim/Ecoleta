@@ -1,109 +1,111 @@
 <h1 align="center">♻️ Ecoleta </h1>
 
-<h3 align="center">Seu marketplace de coleta de resíduos. Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente 💚</h3>
+<h3 align="center">Your waste collection marketplace. We help people find collection points efficiently 💚</h3>
 
 <h4 align="center"> 
-	🚧  Concluído  🚧
+	🚧  Concluded  🚧
 </h4>
 
 <p align="center">
- <a href="#sobre-o-projeto-">Sobre</a> •
- <a href="#funcionalidades-%EF%B8%8F">Funcionalidades</a> • 
- <a href="#como-executar">Como executar</a> • 
- <a href="#tecnologias-">Tecnologias</a> • 
- <a href="#licença-">Licença</a> • 
- <a href="#autor-">Autor</a>
+ <a href="#about">About</a> •
+ <a href="#functionalities-%EF%B8%8F">Functionalities</a> • 
+ <a href="#how-to-run">How to run</a> • 
+ <a href="#technology-">Technology</a> • 
+ <a href="#license-">License</a> • 
+ <a href="#author-">Author</a>
 </p>
 
-## Sobre o projeto 💻
+## About 💻
 
-♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+♻️ Ecoleta - is a way to connect companies and entities that collect organic and inorganic waste to people who need to dispose of their waste in an ecological way.
 
-Projeto desenvolvido durante a NLW - Next Level Week oferecida pela Rocketseat. O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
-
----
-
-## Funcionalidades ⚙️
-
-Empresas ou entidades podem se cadastrar na plataforma web enviando:
-
-- [x] uma imagem do ponto de coleta
-- [x] nome da entidade, email e whatsapp
-- [x] e o endereço para que ele possa aparecer no mapa
-- [x] além de selecionar um ou mais ítens de coleta:
-- lâmpadas
-- pilhas e baterias
-- papéis e papelão
-- resíduos eletrônicos
-- resíduos orgânicos
-- óleo de cozinha
-
-Os usuários tem acesso ao aplicativo móvel, onde podem:
-
-- [x] navegar pelo mapa para ver as instituições cadastradas
-- [x] entrar em contato com a entidade através do E-mail ou do WhatsApp
+Project developed during NLW - Next Level Week offered by Rocketseat. NLW is an online experience with a lot of practical content,
+challenges and hacks where the content is available for a week.
 
 ---
 
-## Como executar
+## Functionalities ⚙️
 
-Este projeto é divido em três partes:
+Companies or entities can register on the web platform by sending:
 
-- Backend (pasta server)
-- Frontend (pasta web)
-- Mobile (pasta mobile) <br/>
+- [x] an image of the collection point
+- [x] organization name, email and whatsapp
+- [x] and the address so that it can appear on the map
+- [x] in addition to selecting one or more collection items:
+- lamps
+- Batteries
+- papers and cardboard
+- electronic waste
+- organic waste
+-
+kitchen oil
 
-💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
+Users have access to the mobile application, where they can:
 
-### Pré-requisitos
+- [x] browse the map to see the registered institutions
+- [x] contact the entity via E-mail or WhatsApp
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git, Node.js. Além disto é bom ter um editor para trabalhar com o código como VSCode
+---
 
-#### 🎲 Rodando o Backend (servidor)
+## How to run
+
+This project is divided into three parts:
+
+- Backend (server folder)
+- Frontend (web folder)
+- Mobile (mobile folder) <br/>
+
+💡 Both Frontend and Mobile need the Backend to be running to work.
+
+### Prerequisites
+
+Before you begin, you will need to have the following tools installed on your machine: Git, Node.js. In addition, it is good to have an editor to work with code like VSCode
+
+#### 🎲 Running the Backend (server)
 
 ```sh
-# Clone este repositório
+# Clone this repository
 $ git clone git@github.com:igor-cotrim/NLW-01
 
-# Acesse a pasta do projeto no terminal/cmd
+# Access the project folder in the/cmd terminal
 $ cd NLW-01
 
-# Vá para a pasta server
+# Go to the server folder
 $ cd server
 
-# Instale as dependências
-$ npm install
+# Install the dependencies
+$ npm install or yarn add
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ npm run dev:server
 
-# O servidor inciará na porta:3333 - acesse http://localhost:3333 
+# The server will start at port: 3333 - go to http://localhost: 3333 
 ```
 
-#### 🧭 Rodando a aplicação web (Frontend)
+#### 🧭 Running the web application (Frontend)
 
 ```sh
-# Clone este repositório
+# Clone this repository
 $ git clone git@github.com:igor-cotrim/NLW-01
 
-# Acesse a pasta do projeto no seu terminal/cmd
+# Access the project folder in your terminal/cmd
 $ cd NLW-01
 
-# Vá para a pasta da aplicação Front End
+# Go to the Front End application folder
 $ cd web
 
-# Instale as dependências
+# Install the dependencies
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ npm run start
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+# The application will open on the door:3000 - access http://localhost:3000
 ```
 
-## Tecnologias 🛠
+## Technology 🛠
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 #### Website ([React](https://pt-br.reactjs.org/) + [TypeScript](https://www.typescriptlang.org/))
 
@@ -140,13 +142,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## Licença 📝
+## License 📝
 
-Este projeto esta sobe a licença [MIT](https://choosealicense.com/licenses/mit/)
+This project is under license [MIT](https://choosealicense.com/licenses/mit/)
 
 ---
 
-## Autor 🦸
+## Author 🦸
 
 <a href="https://www.linkedin.com/in/igorcotrim/">
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/50390408?s=460&u=fa3dad860e7be785755894c2c7f4cbd20ac4b1b0&v=4" width="100px;" alt=""/>
@@ -154,7 +156,7 @@ Este projeto esta sobe a licença [MIT](https://choosealicense.com/licenses/mit/
  <sub><b>Igor Cotrim</b></sub></a> <a href="https://www.linkedin.com/in/igorcotrim/" title="linkedin">😎</a>
 
 
-Feito com ❤️ por Igor Cotrim 👋🏽 Entre em contato!
+Made with ❤️ by Igor Cotrim 👋🏽 Get in touch!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Igor_Cotrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/) 
 [![Gmail Badge](https://img.shields.io/badge/-igorxuxicotrim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorxuxicotrim@gmail.com)](mailto:igorxuxicotrim@gmail.com)
