@@ -37,8 +37,7 @@ Companies or entities can register on the web platform by sending:
 - papers and cardboard
 - electronic waste
 - organic waste
--
-kitchen oil
+- kitchen oil
 
 Users have access to the mobile application, where they can:
 
