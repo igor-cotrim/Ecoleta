@@ -9,7 +9,7 @@
 <p align="center">
  <a href="#about">About</a> •
  <a href="#functionalities-%EF%B8%8F">Functionalities</a> • 
- <a href="#how-to-run">How to run</a> • 
+ <a href="#how-to-run-">How to run</a> • 
  <a href="#technology-">Technology</a> • 
  <a href="#license-">License</a> • 
  <a href="#author-">Author</a>
@@ -46,7 +46,7 @@ Users have access to the mobile application, where they can:
 
 ---
 
-## How to run
+## How to run ℹ️
 
 This project is divided into three parts:
 
