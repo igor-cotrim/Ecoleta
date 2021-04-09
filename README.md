@@ -15,6 +15,12 @@
  <a href="#author-">Author</a>
 </p>
 
+<p align="center">
+    <a href="README.md">English</a>
+    ·
+    <a href="README-pt.md">Portuguese</a>
+ </p>
+
 ## About 💻
 
 ♻️ Ecoleta - is a way to connect companies and entities that collect organic and inorganic waste to people who need to dispose of their waste in an ecological way.
