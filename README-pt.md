@@ -15,6 +15,12 @@
  <a href="#Autor-"> Autor </a>
 </p>
 
+<p align="center">
+    <a href="README.md">English</a>
+    ·
+    <a href="README-pt.md">Portuguese</a>
+ </p>
+
 ## Sobre 💻
 
 ♻️ Ecoleta - é uma forma de conectar empresas e entidades que fazem a coleta de resíduos orgânicos e inorgânicos a pessoas que precisam destinar seus resíduos de forma ecológica.
